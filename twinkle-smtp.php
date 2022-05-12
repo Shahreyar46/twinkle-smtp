@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       TwinkleSMTP
- * Plugin URI:        https://woofusion.com
- * Description:       Build Multi-step Guided Selling Process & Smart Forms to Convert 10X More Traffic Into Leads & New Customers.
+ * Plugin URI:        https://github.com/Shahreyar46/
+ * Description:       Its a powerful mail configaration plugin.
  * Version:           1.0.7
  * Author:            WooFusion
- * Author URI:        https://woofusion.com
+ * Author URI:        https://github.com/Shahreyar46/
  * License:           GPL-2.0+
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       twinkle-smtp
